@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/adminlogin.fxml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/Model/Database.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/MainloginController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/PatientDashboardController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/PatientLoginController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/Register.fxml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/AdminloginController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/project/Project.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/PatientDashboard.fxml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/AdminDashboardController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/controller/RegisterController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/PatientLogin.fxml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/mainlogin.fxml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/project/src/viewfxml/adminDashboard.fxml</file>
+        </group>
+    </open-files>
+</project-private>
