@@ -10,7 +10,6 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
-<?import javafx.scene.Cursor?>
 
 <AnchorPane id="AnchorPane" prefHeight="650.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainloginController">
      <VBox layoutX="355.0" layoutY="139.0" spacing="10" GridPane.columnIndex="0" GridPane.rowIndex="0">
@@ -18,7 +17,7 @@
         <HBox spacing="10" />
         <HBox spacing="10" />
     </VBox>
-      <Button fx:id="btnpatientlogin" layoutX="565.0" layoutY="298.0" onAction="#btnpatientlogin" prefHeight="73.0" prefWidth="195.0" text="Patient Login" textFill="#e80000">
+      <Button fx:id="btnpatientlogin" layoutX="633.0" layoutY="289.0" onAction="#btnpatientlogin" prefHeight="73.0" prefWidth="195.0" text="Patient Login" textFill="#e80000">
       <font>
          <Font size="25.0" />
       </font>
@@ -26,7 +25,7 @@
          <Cursor fx:constant="HAND" />
       </cursor>
    </Button>
-      <Button fx:id="btnadminlogin" layoutX="565.0" layoutY="411.0" onAction="#btnadminlogin" prefHeight="71.0" prefWidth="198.0" text="Admin Login" textFill="RED">
+      <Button fx:id="btnadminlogin" layoutX="629.0" layoutY="407.0" onAction="#btnadminlogin" prefHeight="71.0" prefWidth="198.0" text="Admin Login" textFill="RED">
       <font>
          <Font size="25.0" />
       </font>
@@ -34,17 +33,17 @@
          <Cursor fx:constant="HAND" />
       </cursor>
    </Button>
-   <Label layoutX="513.0" layoutY="205.0" prefHeight="51.0" prefWidth="335.0" text="which one are you?">
+   <Label layoutX="586.0" layoutY="167.0" prefHeight="51.0" prefWidth="335.0" text="which one are you?">
       <font>
          <Font size="35.0" />
       </font>
    </Label>
-   <ImageView fitHeight="414.0" fitWidth="404.0" layoutX="76.0" layoutY="165.0" pickOnBounds="true" preserveRatio="true">
+   <ImageView fitHeight="549.0" fitWidth="501.0" layoutX="12.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@images%20(1).png" />
          </image>
       </ImageView>
-     <Label alignment="CENTER" layoutX="175.0" layoutY="64.0" prefHeight="81.0" prefWidth="677.0" text="Doctor Appointment Management System">
+     <Label alignment="CENTER" layoutX="159.0" layoutY="26.0" prefHeight="81.0" prefWidth="649.0" text="Doctor Appointment Management System">
       <font>
          <Font name="System Bold" size="30.0" />
       </font>

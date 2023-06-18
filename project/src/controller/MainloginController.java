@@ -43,7 +43,7 @@ public class MainloginController implements Initializable {
 
 
     @FXML
-    private void btnpatientlogin(ActionEvent event) {
+    private void btnpatientlogin(ActionEvent event) throws IOException {
         try {
             FXMLLoader loader = new FXMLLoader(getClass().getResource("../viewfxml/PatientLogin.fxml"));
             Parent root = loader.load();
@@ -54,6 +54,7 @@ public class MainloginController implements Initializable {
         } catch (IOException e) {
             e.printStackTrace();
         }
+//ViewManager.openLoginPage();
     }
 
     @FXML

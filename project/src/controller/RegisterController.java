@@ -68,7 +68,7 @@ public class RegisterController implements Initializable {
                List<String> items = Arrays.asList("male","female");
 
         coegnder.getItems().addAll(items);
-               List<String> items2 = Arrays.asList("admin", "user");
+               List<String> items2 = Arrays.asList("admin", "patient");
         roegnder.getItems().addAll(items2);
     }    
 
@@ -148,6 +148,7 @@ public class RegisterController implements Initializable {
 
             // Close the connection to the database.
             connection.close();
+            usernameid.clear();
 
             // If rows were affected, then the user data was inserted successfully.
             
